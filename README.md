@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/NekoSakuraLucia">
+    <img src="/images/NekoBanner.jpg" alt="NekoSakura" />
+  </a>
+</div>
+
 ### <p align="center">Welcome!</p>
 ### <p align="center">**I'm Neko Sakura, a discord bot developer.**</p>
 
@@ -10,7 +16,7 @@
 <br />
 
 <div align="center">
-  <a href="http://www.github.com/NekoSakuraLucia">
+  <a href="https://github.com/NekoSakuraLucia">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoSakuraLucia&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=f9a8d4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="NekoSakura" />
   </a>
 </div>
