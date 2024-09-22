@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/NekoSakuraLucia">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoSakuraLucia&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=f9a8d4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="NekoSakura" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoSakuraLucia&bg_color=171717&color=ff75f6&line=ff8af7&point=5c5c5c&area=true&hide_border=true" alt="NekoSakura" />
   </a>
 </div>
 
