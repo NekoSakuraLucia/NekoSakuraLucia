@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/NekoSakuraLucia">
-    <img src="/images/NekoBanner.jpg" alt="NekoSakura" />
+    <img src="/images/NekoProfile.jpg" alt="NekoSakura" />
   </a>
 </div>
 
