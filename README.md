@@ -1,22 +1,25 @@
+<h2 align="left">Hi 👋! I'm Neko Sakura, a discord bot developer.</h2>
+
+###
+
 <div align="center">
-  <a href="https://github.com/NekoSakuraLucia">
-    <img src="/images/NekoProfile.jpg" alt="NekoSakura" />
+  <a href="https://discord.com/users/1031168461184978975"><img src="https://lanyard.cnrad.dev/api/1031168461184978975" height="140" alt="NekoSakuraLucia"></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NekoSakuraLucia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&bg_color=171717" height="140" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/126567658?v=4"  />
+
+###
+
+<div align="left">
+  <a href="https://www.facebook.com/people/Cxllme-Neko/pfbid0KhFMdkXW9GfYigVUsyLxjdrrVuWFjZfuGmFGpt3kWmjueZr35C5MRSVSgPtxm3CLl">
+      <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white" height="35" alt="Facebook Logo"  />
+  </a>
+  <a href="https://discord.com/users/1031168461184978975">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
 
-### <p align="center">Welcome!</p>
-### <p align="center">**I'm Neko Sakura, a discord bot developer.**</p>
-
-<br />
-
-<div align="center">
-<a href="https://discord.com/users/1031168461184978975"><img align="center" width="300px" src="https://lanyard.cnrad.dev/api/1031168461184978975"></a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/NekoSakuraLucia">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSakuraLucia&layout=compact&langs_count=10&title_color=f9a8d4&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="NekoSakura" />
-  </a>
-</div>
+###
