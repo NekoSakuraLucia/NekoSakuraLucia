@@ -9,11 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/126567658?v=4"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/people/Cxllme-Neko/pfbid0KhFMdkXW9GfYigVUsyLxjdrrVuWFjZfuGmFGpt3kWmjueZr35C5MRSVSgPtxm3CLl">
       <img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white" height="35" alt="Facebook Logo"  />
   </a>
