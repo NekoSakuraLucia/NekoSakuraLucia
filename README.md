@@ -19,3 +19,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://github.com/NekoSakuraLucia">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoSakuraLucia&bg_color=111111&color=f9a8d4&line=f9a8d4&point=303031&area=true&hide_border=true" alt="NekoSakuraLucia" />
+  </a>
+</div>
