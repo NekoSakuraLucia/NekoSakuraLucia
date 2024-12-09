@@ -1,9 +1,23 @@
-<h2 align="center">Hi 👋! I'm Neko Sakura, a Discord Bot Developer.</h2>
+<h2 align="center">🌸 Hello! I'm Neko Sakura, a Discord Bot Developer! 🌸</h2>
 
 ---
 
 <div align="center">
-  <h2>✨ Skills</h2>
+  <h3>✨ About Me ✨</h3>
+  <p>
+    Hello there! 💖 I'm Neko Sakura, a passionate <strong>Discord Bot Developer</strong> who loves creating bots with personality and power! 💻🌸 
+    I specialize in using <em>JavaScript</em>, <em>TypeScript</em>, and <em>Node.js</em> to bring bots to life on Discord. ✨
+    I'm all about making Discord a more fun and engaging place, one bot at a time! Let’s code together and bring some magic to the server! 🦄✨
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>🛠️ My Skills 🌟</h2>
+  <p>
+    I work with the most kawaii tools to create amazing bots! Here's a peek at the technologies I use:
+  </p>
   <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -13,21 +27,6 @@
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-    </a>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-    </a>
-    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-    </a>
-    <a href="https://remix.run/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored.svg" width="36" height="36" alt="Remix" />
     </a>
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
@@ -44,11 +43,15 @@
 ---
 
 <div align="center">
-  <h2>✨ Activity</h2>
+  <h2>🎀 My Activity 🌙</h2>
+  <p>Here’s a sneak peek of my current activities! 🌸🎧</p>
+  
   <a href="https://discordapp.com/users/1031168461184978975" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1031168461184978975" />
   </a>
+
   <br/>
+
   <a href="https://open.spotify.com/user/lcjpn1qvagz3nkokz9ly82e50" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ns4dwvxymhxjeeg2j7yu2m7lya" />
   </a>
@@ -57,14 +60,26 @@
 ---
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NekoSakuraLucia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&bg_color=171717" height="140" alt="languages graph"  />
+  <h2>📊 GitHub Stats 🌟</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NekoSakuraLucia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&bg_color=171717&title_color=ff66cc&text_color=ffffff&border_color=ff99cc" alt="languages graph" />
+  
+  <h3>📈 GitHub Activity 📚</h3>
+  <a href="https://github.com/NekoSakuraLucia">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoSakuraLucia&bg_color=171717&color=ff66cc&line=ff99cc&point=80b3ff&area=ffd3e3&hide_border=true" alt="NekoSakuraLucia" />
+  </a>
+
+  <h3>🔥 GitHub Streak 🔥</h3>
+  <a href="http://www.github.com/NekoSakuraLucia">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoSakuraLucia&stroke=000000&background=171717&ring=ff66cc&fire=ff66cc&currStreakNum=80b3ff&currStreakLabel=ff66cc&sideNums=ff99cc&sideLabels=9966cc&dates=ffffff&hide_border=true" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/NekoSakuraLucia">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoSakuraLucia&bg_color=111111&color=f9a8d4&line=f9a8d4&point=303031&area=true&hide_border=true" alt="NekoSakuraLucia" />
-  </a>
+  <h3>💬 Let's Connect! 💕</h3>
+  <p>Feel free to reach out if you have any questions, want to collaborate, or just want to chat! ✨💖</p>
+  <p>
+    <a href="https://discordapp.com/users/1031168461184978975" target="_blank">Discord</a> | <a href="https://github.com/NekoSakuraLucia" target="_blank">GitHub</a> | <a href="https://facebook.com/cxllme.neko" target="_blank">Facebook</a>
+  </p>
 </div>
