@@ -19,7 +19,7 @@
     I work with the most kawaii tools to create amazing bots! Here's a peek at the technologies I use:
   </p>
   <p>
-   <img src="https://skillicons.dev/icons?i=nuxtjs,vue,react,git,vite,ts,js,bun,nodejs,tailwind,vscode,github" alt="Skills" />
+   <img src="https://skillicons.dev/icons?i=nuxtjs,vue,pinia,react,git,vite,ts,js,bun,nodejs,tailwind,vscode,github" alt="Skills" />
   </p>
 </div>
 
