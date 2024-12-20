@@ -51,12 +51,12 @@
   
   <h3>📈 GitHub Activity 📚</h3>
   <a href="https://github.com/NekoSakuraLucia">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoSakuraLucia&bg_color=171717&color=ff66cc&line=ff99cc&point=80b3ff&area=ffd3e3&hide_border=true" alt="NekoSakuraLucia" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoSakuraLucia&bg_color=171717&color=ff77ff&line=ff77ff&point=ff99cc&area=true&hide_border=true" alt="NekoSakuraLucia" />
   </a>
 
   <h3>🔥 GitHub Streak 🔥</h3>
   <a href="http://www.github.com/NekoSakuraLucia">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoSakuraLucia&stroke=000000&background=171717&ring=ff66cc&fire=ff66cc&currStreakNum=80b3ff&currStreakLabel=ff66cc&sideNums=ff99cc&sideLabels=9966cc&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoSakuraLucia&stroke=000000&background=171717&ring=ff77ff&fire=ff66cc&currStreakNum=ff77ff&currStreakLabel=ff66cc&sideNums=ff77ff&sideLabels=ff77ff&dates=ffffff&hide_border=true" alt="NekoSakuraLucia" />
   </a>
   </div>
 </details>
