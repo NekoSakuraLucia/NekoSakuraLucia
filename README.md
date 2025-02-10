@@ -1,13 +1,13 @@
-<h2 align="center">🌸 Hello! I'm Neko Sakura, a Discord Bot Developer! 🌸</h2>
+<h2 align="center">🌸 Hello! I'm Neko Sakura, a Frontend Developer! 🌸</h2>
 
 ---
 
 <div align="center">
   <h3>✨ About Me ✨</h3>
   <p>
-    Hello there! 💖 I'm Neko Sakura, a passionate <strong>Discord Bot Developer</strong> who loves creating bots with personality and power! 💻🌸 
-    I specialize in using <em>JavaScript</em>, <em>TypeScript</em>, and <em>Node.js</em> to bring bots to life on Discord. ✨
-    I'm all about making Discord a more fun and engaging place, one bot at a time! Let’s code together and bring some magic to the server! 🦄✨
+    Hello there! 💖 I'm Neko Sakura, a passionate <strong>Frontend Developer</strong> who loves creating beautiful and interactive web applications! 💻🌸 
+    I specialize in using <em>ReactJS</em>, <em>Next.js</em>, and <em>JavaScript</em> to build dynamic and user-friendly interfaces. ✨
+    I'm all about making the web a more engaging place, one component at a time! Let’s code together and bring some magic to the frontend! 🦄✨
   </p>
 </div>
 
@@ -16,10 +16,10 @@
 <div align="center">
   <h2>🛠️ My Skills 🌟</h2>
   <p>
-    I work with the most kawaii tools to create amazing bots! Here's a peek at the technologies I use:
+    I work with the most kawaii tools to create amazing web experiences! Here's a peek at the technologies I use:
   </p>
   <p>
-   <img src="https://skillicons.dev/icons?i=nuxtjs,vue,pinia,react,git,vite,ts,js,bun,nodejs,tailwind,vscode,github" alt="Skills" />
+   <img src="https://skillicons.dev/icons?i=react,nextjs,remix,html,css,tailwind,git,vite,ts,js,vscode,github" alt="Skills" />
   </p>
 </div>
 
