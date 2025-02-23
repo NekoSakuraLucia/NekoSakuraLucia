@@ -19,7 +19,7 @@
     I work with the most kawaii tools to create amazing web experiences! Here's a peek at the technologies I use:
   </p>
   <p>
-   <img src="https://skillicons.dev/icons?i=react,nextjs,remix,html,css,tailwind,git,vite,ts,js,vscode,github" alt="Skills" />
+   <img src="https://skillicons.dev/icons?i=react,nextjs,remix,html,css,ts,js,tailwind,git,vite,supabase,mongodb,vscode,github" alt="Skills" />
   </p>
 </div>
 
